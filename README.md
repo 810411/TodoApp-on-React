@@ -1,3 +1,3 @@
 # My ToDo App
 
-Reault here: https://todo-with-react.herokuapp.com/
+Result here: https://todo-with-react.herokuapp.com/
